@@ -1,0 +1,71 @@
+
+
+#queArrependinmentoDeFazerEsseExemploo{
+    display: flex;
+    flex-direction: row;
+}
+
+#teste{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.aaaaaaa{
+    width: 100px;
+    height: 100px;
+}
+
+
+.xiii{
+
+    
+    padding-top: 30%;
+    text-align: center;
+    margin-left: 500px;
+    width: 420px;
+    height: 250px;
+}
+
+
+
+
+
+#n1{
+     background-color: black;
+    display: none;
+    
+    color: aqua;
+
+}
+
+#n2{
+    background-color: aqua;
+    display: none;
+    color: red;
+    
+    
+}
+
+#n3{
+      background-color: blue;
+    display: none;
+    
+}
+
+#n4{
+    background-color: chocolate;
+    display: none;
+  color: whitesmoke;
+   
+}
+
+#n5{
+
+    background-color: cornflowerblue;
+    display: none;
+    
+    color: yellow;
+    
+}
+
